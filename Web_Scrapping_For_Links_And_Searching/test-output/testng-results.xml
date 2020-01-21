@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="252804" started-at="2020-01-21T15:06:11 PKT" finished-at="2020-01-21T15:10:24 PKT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="252804" started-at="2020-01-21T15:06:11 PKT" finished-at="2020-01-21T15:10:24 PKT">
+      <class name="com.qa.scrp.TestCases.MainTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.scrp.TestCases.MainTest@b6cbcc]" name="SetUp" is-config="true" duration-ms="10261" started-at="2020-01-21T15:06:11 PKT" finished-at="2020-01-21T15:06:21 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="get_Link()[pri:0, instance:com.qa.scrp.TestCases.MainTest@b6cbcc]" name="get_Link" duration-ms="240969" started-at="2020-01-21T15:06:21 PKT" finished-at="2020-01-21T15:10:22 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Link -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.scrp.TestCases.MainTest@b6cbcc]" name="TearDown" is-config="true" duration-ms="1492" started-at="2020-01-21T15:10:22 PKT" finished-at="2020-01-21T15:10:24 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.scrp.TestCases.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
